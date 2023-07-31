@@ -8,8 +8,13 @@
 ### What's DevOps?
 	- Collaborative, Automated, Feedback, Testing, Software delivery
 
-### What's CI/CD?
-	- Continuous Integration / Continuous Deployment
- 	- CI -> Whenever the code changes are pushed to the server (JENKINS) triggers the build process and run automated tests
-  	- CD -> Deployed to staging environemnt for further tests and deployed to Prod if all are passed
+### What's CI?
+	- Continuous Integration
+ 	- CI -> Build, Test
+  	- When changes are commited, Jenkins will start to build and run tests for the code automatically
+
+### What's CD?
+	- Continuous Delivery
+ 	- Build, Push to Repository, Deploy to Prod
+  	- Jenkins automates the process
  
