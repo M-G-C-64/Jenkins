@@ -15,6 +15,6 @@
 
 ### What's CD?
 	- Continuous Delivery
- 	- Build, Push to Repository, Deploy to Prod
+ 	- Build docker, Push to Repository, Deploy to Prod
   	- Jenkins automates the process
  
