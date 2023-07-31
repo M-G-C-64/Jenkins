@@ -3,6 +3,7 @@
 ### What?
 	- Most popular devops tool
  	- Key DevOps CI/CD tool
+  	- Open Source
 
 ### What's DevOps?
 	- Collaborative, Automated, Feedback, Testing, Software delivery
